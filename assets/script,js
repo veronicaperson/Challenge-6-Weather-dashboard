@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Get references to the #btn and input element
 var btn = document.querySelector("#btn-search");
 // get the reference to the div for the historic cities
@@ -312,3 +313,6 @@ start();
 // Add event listener to Searching button 
 btn.addEventListener("click", search);
 /*******************************************************************/
+=======
+
+>>>>>>> e6c45fabbf27c70ec2553009cb7c134062302702
